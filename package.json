@@ -1,0 +1,13 @@
+{
+    "id": "twitch2",
+    "name": "Twitch",
+    "version": "1.0.0",
+    "description": "Twitch, mais en mieux",
+    "main": "index.js",
+    "author": "Clément Jallat <clement.jallat@gmail.com>",
+    "license": "MIT",
+    "repository": "https://github.com/meetfranz/recipe-tweetdeck",
+    "config": {
+      "serviceURL": "https://www.twitch.tv/"
+    }
+  }
